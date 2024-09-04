@@ -9,9 +9,7 @@ Este projeto é uma amostra de habilidades e técnicas de SQL Server, demonstran
 ## 📂 Estrutura do Repositório
 
 - **`/Scripts`**: Contém scripts SQL individuais.
-  - **`ManipulaçãoDados.sql`**: Scripts para manipulação e análise de dados.
   - **`CriaçãoTabelas.sql`**: Scripts para criação e modificação de tabelas.
-  - **`ProcedimentosArmazenados.sql`**: Scripts para criação de procedimentos armazenados e funções.
   
 - **`/Examples`**: Exemplos de como os scripts podem ser utilizados.
   - **`ExemploConsultas.sql`**: Exemplos de consultas complexas.
